@@ -1,0 +1,26 @@
+html{background: #008ECC;}
+#main{
+  color: black;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 35px auto;
+  padding: 25px;
+  font-size: 30px;
+}
+#image {max-width: 100%;
+  display:block;
+  height: auto;
+  margin: auto;
+  border-radius: 5px:}
+
+#img-caption{font-size: 18px;
+font-weight: bold;
+font-family: Arial;}
+
+#tribute-info{text-align: left;
+padding-bottom: 30px;}
+
+#tribute-link{color:white;}
+
+#responsive {width: 100%;
+height: auto;}
